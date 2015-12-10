@@ -1,0 +1,10 @@
+vim_free hdeg.1.1 hdeg.1.2
+lalloc hdeg.2.1 hdeg.2.2 hdeg.2.3 hdeg.2.4 hdeg.2.5 hdeg.2.6 hdeg.2.7 hdeg.2.8 hdeg.2.9 hdeg.2.10 hdeg.2.11 hdeg.2.12 hdeg.2.13 hdeg.2.14 hdeg.2.15
+vim_strchr hdeg.3.1 hdeg.3.2 hdeg.3.3 hdeg.3.4 hdeg.3.5 hdeg.3.6 hdeg.3.7 hdeg.3.8 hdeg.3.9 hdeg.3.10 hdeg.3.11 hdeg.3.12 hdeg.3.13 hdeg.3.14 hdeg.3.15 hdeg.3.16 hdeg.3.17 hdeg.3.18 hdeg.3.19 hdeg.3.21 hdeg.3.22 hdeg.3.23
+utfc_ptr2len hdeg.4.2 hdeg.4.3 hdeg.4.4 hdeg.4.5 hdeg.4.6 hdeg.4.7 hdeg.4.8 hdeg.4.9 hdeg.4.10 hdeg.4.11 hdeg.4.12 hdeg.4.13 hdeg.4.14
+alloc hdeg.5.1
+vim_strsave hdeg.6.1 hdeg.6.2
+ml_get_buf hdeg.7.1 hdeg.7.2 hdeg.7.3 hdeg.7.4 hdeg.7.5 hdeg.7.6 hdeg.7.7 hdeg.7.8 hdeg.7.9 hdeg.7.10 hdeg.7.11
+utf_ptr2char hdeg.8.1 hdeg.8.2 hdeg.8.3 hdeg.8.4 hdeg.8.5 hdeg.8.6 hdeg.8.7 hdeg.8.8 hdeg.8.9 hdeg.8.10 hdeg.8.11 hdeg.8.12 hdeg.8.13 hdeg.8.14 hdeg.8.15 hdeg.8.16 hdeg.8.17 hdeg.8.18 hdeg.8.19 hdeg.8.20 hdeg.8.21 hdeg.8.22 hdeg.8.23 hdeg.8.24 hdeg.8.25 hdeg.8.26 hdeg.8.27
+out_flush hdeg.9.1
+out_char_nf hdeg.10.2 hdeg.10.3 hdeg.10.4

@@ -1,0 +1,10 @@
+hash_add ldeg.1.1 ldeg.1.2
+hash_add_item ldeg.2.1 ldeg.2.2 ldeg.2.4
+do_highlight ldeg.3.1 ldeg.3.2 ldeg.3.3 ldeg.3.4 ldeg.3.5 ldeg.3.6 ldeg.3.7 ldeg.3.8 ldeg.3.9 ldeg.3.10 ldeg.3.11 ldeg.3.12 ldeg.3.13 ldeg.3.14 ldeg.3.15
+fnamecmp ldeg.4.1 ldeg.4.2 ldeg.4.3
+normal_cmd ldeg.5.1 ldeg.5.3 ldeg.5.4 ldeg.5.5 ldeg.5.6 ldeg.5.7 ldeg.5.9 ldeg.5.10 ldeg.5.11 ldeg.5.12 ldeg.5.14 ldeg.5.15
+fopen_noinh_readbin ldeg.6.1 ldeg.6.2 ldeg.6.3 ldeg.6.4 ldeg.6.5 ldeg.6.6
+gen_expand_wildcards ldeg.7.1 ldeg.7.2 ldeg.7.3 ldeg.7.4 ldeg.7.5 ldeg.7.6 ldeg.7.7 ldeg.7.8 ldeg.7.9 ldeg.7.10 ldeg.7.11 ldeg.7.12 ldeg.7.13 ldeg.7.14 ldeg.7.15
+has_cursormoved ldeg.8.1
+has_textchanged ldeg.9.1
+may_clear_sb_text ldeg.10.1
